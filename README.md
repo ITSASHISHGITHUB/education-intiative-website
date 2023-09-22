@@ -12,7 +12,7 @@ Before you begin, ensure you have Node.js installed on your computer.
 1. Clone the repository to your local machine inside a new folder e-commerce-cart:
 
    ```bash
-   git clone https://github.com/ITSASHISHGITHUB/education-intiative-website.git
+  git clone https://github.com/ITSASHISHGITHUB/education-intiative-website.git
    ```
 
 2. Navigate to the project directory:
