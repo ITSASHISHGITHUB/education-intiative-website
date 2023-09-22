@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    .btn{
+        @apply py-1 px-3 bg-rose-50 text-rose-800 hover:bg-rose-800 hover:text-rose-50 rounded-md
+    }
+    .alert{
+        @apply bg-emerald-500 rounded-md text-white p-2
+    }
+
+}
